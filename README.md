@@ -1,2 +1,5 @@
-# HelloWorld
-一个简单的helloworld
+public class HelloWorld{
+  public static void main(String args[]){
+    system.out.println("HelloWorld");
+  }
+}
